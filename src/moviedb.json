@@ -1,0 +1,200 @@
+
+[
+  {
+    "id": 1,
+    "title": "The Midnight Express",
+    "description": "A thrilling journey on a train filled with secrets and suspense.",
+    "image": "img1",
+    "genre": "Thriller",
+    "year": 2023,
+    "rating": 4.5,
+    "trending":true
+  },
+  {
+    "id": 2,
+    "title": "Echoes of the Past",
+    "description": "A historical drama that unravels the mysteries of a bygone era.",
+    "image": "img2",
+    "genre": "Drama",
+    "year": 2022,
+    "rating": 4.2,
+    "trending":false
+  },
+  {
+    "id": 3,
+    "title": "Galactic Guardians",
+    "description": "A team of intergalactic heroes battles to save the universe from an ancient evil.",
+    "image": "img3",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": 4.8,
+    "trending":true
+  },
+  {
+    "id": 4,
+    "title": "The Lost City of Eldoria",
+    "description": "An adventurous explorer discovers a hidden city filled with wonders and danger.",
+    "image": "img4",
+    "genre": "Adventure",
+    "year": 2023,
+    "rating": 4.0,
+    "trending":true
+  },
+  {
+    "id": 5,
+    "title": "Crimson Shadows",
+    "description": "A dark mystery unfolds as a detective investigates a series of bizarre crimes.",
+    "image": "img5",
+    "genre": "Mystery",
+    "year": 2022,
+    "rating": 3.9,
+    "trending":true
+  },
+  {
+    "id": 6,
+    "title": "Love Under the Tuscan Sun",
+    "description": "A heartwarming romantic story set against the beautiful backdrop of Tuscany.",
+    "image": "img6",
+    "genre": "Romance",
+    "year": 2021,
+    "rating": 4.6,
+    "trending":false
+  },
+  {
+    "id": 7,
+    "title": "The Quantum Leap",
+    "description": "A mind-bending sci-fi tale of time travel and alternate realities.",
+    "image": "img7",
+    "genre": "Sci-Fi",
+    "year": 2023,
+    "rating": 4.7,
+    "trending":true
+  },
+  {
+    "id": 8,
+    "title": "Whispers in the Wind",
+    "description": "A supernatural drama about a family haunted by their past.",
+    "image": "img8",
+    "genre": "Horror",
+    "year": 2022,
+    "rating": 3.7
+  },
+  {
+    "id": 9,
+    "title": "The Chef's Secret",
+    "description": "A culinary journey filled with passion, flavor, and hidden recipes.",
+    "image": "img9",
+    "genre": "Comedy",
+    "year": 2023,
+    "rating": 4.3,
+    "trending":false
+  },
+  {
+    "id": 10,
+    "title": "City of Dreams",
+    "description": "A musical about the struggles and triumphs of aspiring artists in the big city.",
+    "image": "img10",
+    "genre": "Musical",
+    "year": 2024,
+    "rating": 4.4,
+    "trending":true
+  },
+  {
+    "id": 11,
+    "title": "Harry Porter and the Magic Giant Beast",
+    "description": "A wizarding adventure full of magic and mystical creatures.",
+    "image": "img11",
+    "genre": "Fantasy",
+    "year": 2020,
+    "rating": 4.9,
+    "trending":true
+  },
+  {
+    "id": 12,
+    "title": "Code Breakers",
+    "description": "A group of hackers must stop a digital apocalypse.",
+    "image": "img12",
+    "genre": "Thriller",
+    "year": 2023,
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "title": "Starlight Serenade",
+    "description": "A romantic journey under a canopy of stars.",
+    "image": "img13",
+    "genre": "Romance",
+    "year": 2022,
+    "rating": 4.0
+  },
+  {
+    "id": 14,
+    "title": "The Last Frontier",
+    "description": "A daring expedition to a new, unexplored world.",
+    "image": "img14",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": 4.6,
+    "trending":false
+  },
+  {
+    "id": 15,
+    "title": "Hidden Agendas",
+    "description": "A political thriller with twists and turns.",
+    "image": "https://via.placeholder.com/300x450?text=Hidden+Agendas",
+    "genre": "Thriller",
+    "year": 2021,
+    "rating": 3.8,
+    "trending":false
+  },
+  {
+    "id": 16,
+    "title": "The Laughing Detective",
+    "description": "A comedic detective solves crimes with laughter.",
+    "image": "https://via.placeholder.com/300x450?text=Laughing+Detective",
+    "genre": "Comedy",
+    "year": 2023,
+    "rating": 4.5,
+    "trending":true
+  },
+  {
+    "id": 17,
+    "title": "Dragon's Fury",
+    "description": "Epic battles and mythical creatures in a fantasy war.",
+    "image": "https://via.placeholder.com/300x450?text=Dragons+Fury",
+    "genre": "Fantasy",
+    "year": 2022,
+    "rating": 4.7,
+    "trending":true
+  },
+  {
+    "id": 18,
+    "title": "Beneath Silent Waters",
+    "description": "A deep-sea mystery that reveals hidden truths.",
+    "image": "https://via.placeholder.com/300x450?text=Silent+Waters",
+    "genre": "Mystery",
+    "year": 2023,
+    "rating": 3.9,
+    "trending":false
+  },
+  {
+    "id": 19,
+    "title": "The Forgotten Melody",
+    "description": "A musician rediscovers a lost masterpiece.",
+    "image": "https://via.placeholder.com/300x450?text=Forgotten+Melody",
+    "genre": "Drama",
+    "year": 2021,
+    "rating": 4.2,
+    "trending":false
+  },
+  {
+    "id": 20,
+    "title": "Wilderness Escape",
+    "description": "Survival and adventure in the untamed wilderness.",
+    "image": "https://via.placeholder.com/300x450?text=Wilderness+Escape",
+    "genre": "Adventure",
+    "year": 2022,
+    "rating": 4.4,
+    "trending":false
+  }
+]
