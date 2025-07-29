@@ -26,7 +26,7 @@ export default function Nav() {
         <span className="flex items-center justify-center w-10 h-10 rounded-full bg-gradient-to-br from-yellow-400 to-orange-500 shadow-lg">
           <i className="fas fa-film text-white text-xl"></i>
         </span>
-        <span className="text-2xl font-extrabold bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent tracking-tight">MovieVerse</span>
+        <span className="text-2xl font-extrabold bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent tracking-tight">MoviVerse</span>
       </div>
 
       {/* Search Icon */}
